@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 public class SearchPage extends Page{
 
      WebDriver driver;
-    @FindBy(css = "")
+    @FindBy(css = "#id")
      private WebElement searchBox;
 
     public SearchPage(WebDriver driver) {
