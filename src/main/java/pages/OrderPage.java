@@ -17,4 +17,10 @@ public class OrderPage extends Page {
         this.driver = driver;
         PageFactory.initElements(driver, this);
     }
+
+
+    public void addToCart(){
+        System.out.println("Adding 1 item to cart");
+        System.out.println("Adding 2 item to cart");
+    }
 }
