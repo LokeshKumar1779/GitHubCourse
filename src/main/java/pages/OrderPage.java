@@ -24,5 +24,6 @@ public class OrderPage extends Page {
         System.out.println("Adding 2 item to cart");
         System.out.println("Adding 3 item to cart");
         System.out.println("Adding 4 item to cart");
+        System.out.println("Adding 5 item to cart");
     }
 }
