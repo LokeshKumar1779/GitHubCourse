@@ -8,12 +8,13 @@ import org.openqa.selenium.support.PageFactory;
 
 public class OrderPage extends Page {
 
-     WebDriver driver;
+    WebDriver driver;
     @FindBy(css = "#id")
-     private WebElement searchBox;
+    private WebElement searchBox;
 
     public OrderPage(WebDriver driver) {
         super(driver);
         this.driver = driver;
-        PageFactory.initElements(driver,this);
+        PageFactory.initElements(driver, this);
     }
+}
