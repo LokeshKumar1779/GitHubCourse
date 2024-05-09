@@ -21,4 +21,8 @@ public class CherryPage extends Page{
         System.out.println("line11");
         System.out.println("line12");
     }
+
+    public void cherryMethod1(){
+        System.out.println("Hello");
+    }
 }
