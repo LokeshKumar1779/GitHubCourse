@@ -9,5 +9,6 @@ public class CherryPage extends Page{
 
     public void cherryMethod(){
         System.out.println("line1");
+        System.out.println("line2");
     }
 }
