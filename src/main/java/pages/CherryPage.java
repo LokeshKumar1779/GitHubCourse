@@ -6,4 +6,8 @@ public class CherryPage extends Page{
     public CherryPage(WebDriver driver) {
         super(driver);
     }
+
+    public void cherryMethod(){
+        System.out.println("line1");
+    }
 }
