@@ -23,6 +23,8 @@ public class CherryPage extends Page{
     }
 
     public void cherryMethod1(){
+        System.out.println("Hi");
         System.out.println("Hello");
     }
+
 }
