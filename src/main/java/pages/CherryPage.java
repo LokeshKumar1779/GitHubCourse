@@ -16,5 +16,8 @@ public class CherryPage extends Page{
         System.out.println("line6");
         System.out.println("line7");
         System.out.println("line8");
+        System.out.println("line9");
+        System.out.println("line10");
+        System.out.println("line11");
     }
 }
