@@ -8,8 +8,14 @@ public class ClassicPage {
         int i = 20;
         String name1 = "Kumar";
 
+
         System.out.println("Hello");
         System.out.println("Hi");
         System.out.println("Bye");
+
+        while (true){
+            System.out.println("Hi");
+        }
+
     }
 }
