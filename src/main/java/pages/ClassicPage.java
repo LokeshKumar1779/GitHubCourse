@@ -10,5 +10,6 @@ public class ClassicPage {
 
         System.out.println("Hello");
         System.out.println("Hi");
+        System.out.println("Bye");
     }
 }
