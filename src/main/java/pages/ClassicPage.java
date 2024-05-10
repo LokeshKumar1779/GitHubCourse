@@ -7,9 +7,5 @@ public class ClassicPage {
         System.out.println("Hi Classic");
         int i = 20;
         String name1 = "Kumar";
-
-        while (true){
-            System.out.println("Hi");
-        }
     }
 }
