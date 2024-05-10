@@ -9,5 +9,6 @@ public class ClassicPage {
         String name1 = "Kumar";
 
         System.out.println("Hello");
+        System.out.println("Hi");
     }
 }
