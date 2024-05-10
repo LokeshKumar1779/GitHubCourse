@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package pages;
 
 public class ClassicPage {
