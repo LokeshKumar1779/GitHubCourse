@@ -1,1 +1,13 @@
 hello from test.txt file
+hello again from test.txt file
+third line added to test.txt file 
+fourth line added to test.txt file
+fifth line added to test.txt file
+.
+..
+.git
+config.properties
+pom.xml
+src
+test.txt
+testng.xml
